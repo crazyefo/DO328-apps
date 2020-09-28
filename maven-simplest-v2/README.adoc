@@ -30,3 +30,5 @@ You can also run the fat jar with maven:
     mvn package exec:exec@run-app
 
 Now point your browser at http://localhost:8080
+
+hey its me with new changes ... sept 28th
